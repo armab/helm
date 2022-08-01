@@ -31,4 +31,6 @@ function install_helm_s3() {
 
 install_helm
 install_helm_s3
+# this should fail
+yolo
 
